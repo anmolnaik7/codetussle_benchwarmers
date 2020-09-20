@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>Cabster</title>
+
+</head>
+<body>      
+<header>
+
+<nav>
+      <div class="div">   
+           <ul class="btn main">
+                <li><a href="#">HOME</a></li>
+                <li><a href="#">BOOK</a></li>
+                <li><a href="">CONTACT US</a></li>
+                <li><a href="">hospital</a></li></ul>
+           </div> </nav>
+       
+ </header>
+		<section id="section1">
+              <img src="#" class="img1">
+              <p class="p1">fdg</p>
+		 </section>
+		 <section id="section2">
+		    <img src="#" class="img2">
+		    <p class="p2">dg</p>
+		 </section>
+		 <section id="section3">
+		    <img src="#" class="img3">
+		    <p>dg</p>   
+		 </section>                           
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+   </body></html>
